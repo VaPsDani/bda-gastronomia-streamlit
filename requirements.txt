@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+azure-storage-blob
+databricks-connect==15.4.2
+pyspark==4.1.0
+mlflow==3.8.1
+numpy
